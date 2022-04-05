@@ -1,0 +1,7 @@
+﻿  alphaSta.cpp
+  main.cpp
+  typeLine.cpp
+  正在生成代码...
+E:\career\WordleProject\alphaSta.cpp(84): warning C4715: “alphaSta::operator<”: 不是所有的控件路径都返回值
+E:\career\WordleProject\alphaSta.cpp(46): warning C4715: “alphaSta::operator>”: 不是所有的控件路径都返回值
+  WordleProject.vcxproj -> E:\career\WordleProject\Debug\WordleProject.exe

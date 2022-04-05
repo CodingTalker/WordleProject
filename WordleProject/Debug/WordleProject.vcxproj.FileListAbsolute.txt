@@ -1,0 +1,2 @@
+E:\career\WordleProject\Debug\WordleProject.exe
+E:\career\WordleProject\Debug\WordleProject.pdb
